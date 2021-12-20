@@ -1,0 +1,63 @@
+[
+  {
+    "poi_name": "Manizales",
+    "poi_description": "Manizales, Caldas - Colombia",
+    "poi_rating": "5.0",
+    "poi_image": "https://encolombia.com/wp-content/uploads/2012/12/Turismo-en-Manizales-e1371762633903.jpg",
+    "poi_description1": "Ciudad ubicada en el centro occidente de Colombia. Forma parte de la llamada Región paisa y del llamado Triángulo de oro.",
+    "poi_description2": " Fundada en 1849 por colonos antioqueños, hoy es una ciudad con gran actividad económica, industrial, cultural y turística.",
+    "poi_localization": "Colombia, departamento de Caldas",
+    "poi_temperature": "16°C en promedio.",
+    "poi_map": "geo:5.06889, -75.51738",
+    "poi_places": "  • Catedral Basilica .\n  • Mirador de Chipre.\n  • Ecoparque los Yarumos.\n  • Ecoparque los Alcazares.\n  • Monumento a los Colonizadores.\n  • Bolivar Condor.\n  • Gobernación de Caldas.\n  • Bosque Popular el Prado.\n  • Estadio Palogrande.\n  • Recinto del Pensamiento."
+  },
+  {
+    "poi_name": "Parque Los Nevados",
+    "poi_description": "Ubicado en el municipio de Manizales, Caldas -Colombia ",
+    "poi_rating": "4.5",
+    "poi_image": "https://i2.wp.com/magazine-wellness.com/wp-content/uploads/2020/10/El-Parque-Nacional-Natural-Los-Nevados-reabre-sus-puertas.jpg?fit=1028%2C646&ssl=1",
+    "poi_description1": "Es conocido por sus volcanes nevados, glaciares, lagos y bosques. El volcán activo Nevado del Ruiz se encuentra en el norte. Más al sur está el lago Verde de color esmeralda, el lago Otún lleno de truchas y el Nevado del Tolima con su cumbre cubierta de nieve.",
+    "poi_description2": "El parque alberga colibríes, águilas, loros y cóndores. Tiene altas palmas de cera y frailejones.",
+    "poi_localization": "Colombia, departamento de Caldas",
+    "poi_temperature": "6°C en promedio.",
+    "poi_map": "geo:4,8947, -75,3005",
+    "poi_places":"  • Nevado del Ruiz.\n  • Nevado de Santa Isabel.\n  • Nevado del Tolima.\n  • Laguna del Otun.\n  • Los Glaciares.\n  • Punto para Avistamiento de aves.\n  • Laguna Negra.\n  • Circuito Trail Running.\n  • Sector la Olleta."
+  },
+  {
+    "poi_name": "Zona Centro",
+    "poi_description": "Región ubicada en el centro del Departamento, Caldas - Colombia ",
+    "poi_rating": "5.0",
+    "poi_image": "https://media-cdn.tripadvisor.com/media/photo-s/03/83/92/76/eje-cafetero-zona-cafetera.jpg",
+    "poi_description1": "Región Integrada por los municipios de Chinchiná y Palestina, donde predominan los sembrados de café y citricos.Concentra gran parte de la Industria regional debido a su conexion con el puerto de Buenaventura.",
+    "poi_description2": "Alli se estan construyendo entre multiples proyectos, Aeropalestina,aeropuerto de ultima generación y futuro polo de desarrollo.",
+    "poi_localization": "Colombia, departamento de Caldas",
+    "poi_temperature": "22°C en promedio.",
+    "poi_map": "geo:4.983, -75.6",
+    "poi_places":"  • Municipio de Chinchiná.\n  • Municipio de Palestina.\n  • Sector Santagueda.\n  • Fábrica de Café Liofilizado.\n  • Grandes Haciendas Cafeteras.\n  • Embalse Cameguadua."
+  },
+  {
+    "poi_name": "Zona Oriente",
+    "poi_description": "Región ubicada en el Oriente del Departamento, Caldas - Colombia",
+    "poi_rating": "5.0",
+    "poi_image": "https://i.pinimg.com/originals/da/2f/ea/da2fea74a3b726dbc651241a9479e232.jpg",
+    "poi_description1": "Región donde predominan los sembrados de Pino y café. Amplia tradición maderera y artesanal. Debido a su conexión con la capital Bogotá , está región aporta ampliamente a la economia del Departamento.",
+    "poi_description2": "El municipio de la Dorada se constituye como el principal polo de desarrollo,aportando ampliamente en ganaderia. Debido a su ubicación geográfica es considerada una region de amplio desarrollo para el país.",
+    "poi_localization": "Colombia, departamento de Caldas",
+    "poi_temperature": "18°C en promedio.",
+    "poi_map": "geo:5.45222,-74.66917",
+    "poi_places":"  • Municipio de la Dorada.\n  • Municipio de Pensilvania\n  • Malecon del Rio Magdalena.\n  • Cerro Piamonte.\n  • Haciendas Madereras."
+  },
+  {
+    "poi_name": "Salamina",
+    "poi_description": "Municipio de Salamina, Caldas -Colombia ",
+    "poi_rating": "4.0",
+    "poi_image": "https://elturismoencolombia.com/wp-content/uploads/2018/11/salamina_caldas_guia_turismo_colombia.jpg",
+    "poi_description1": "Municipio patrimonio de Colombia.Pueblo paisa, con arraigada cultura del denominado viejo Caldas. Por aca llegaron los fundadores del Departamento provenientes de Antioquia.",
+    "poi_description2": "Ubicada A 3 horas de Manizales, la capital del departamento. Se le conoce como la «Ciudad Luz» ya que ha sido cuna de «ilustres» pensadores, poetas y escritores.",
+    "poi_localization": "Colombia, departamento de Caldas",
+    "poi_temperature": "27°C en promedio.",
+    "poi_map": "geo: 5,4078,-75,488",
+    "poi_places":"  • Bosque de las Samarias.\n  • Iglesia La Inmaculada Concepción.\n  • Casa de la Conservación Nacional.\n  • Cafe Entree Montañas."
+  }
+
+]

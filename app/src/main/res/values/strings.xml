@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Caldas Turistico</string>
+    <string name="MainActivity">Detalle</string>
+    <string name="name_pois">Caldas</string>
+    <string name="description_poi_1">Descripción del sitio turístico.</string>
+    <string name="description_poi_2">Ampliación de la descripción.</string>
+    <string name="textbotton_vermas">Leer Más</string>
+    <string name="recommended">Sitios Recomendados</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="localization">Colombia, departamento de Caldas</string>
+    <string name="temperature">Temperatura</string>
+    <string name="degrees">°C en promedio</string>
+    <string name="map">Ver en mapa</string>
+    <string name="info">Más info</string>
+    <string name="list_places">
+        <br> • Manizales. \n</br>
+        <br> • Parque Nacional Natural Los Nevados. \n</br>
+        <br> • Zona Centro. \n</br>
+        <br> • Zona Oriente. \n</br>
+        <br> • Salamina. \n</br>
+    </string>
+    <string name="Poi_image">Poi_image</string>
+    <string name="Poi_name">Destino</string>
+    <string name="Poi_score">Calificación</string>
+    <string name="Poi_description">Descripción</string>
+    <string name="name_app_ini">Traveling</string>
+    <string name="list">Destinos</string>
+    <string name="settings">Ajustes</string>
+
+
+    <string name="ini">Traveling</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Acerca de</string>
+    <string name="sync_header">Permisos</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Preferencias</string>
+    <string name="reply_title">Versión 3.0 2021</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Activar Notificaciones</string>
+    <string name="Off">No</string>
+    <string name="on">Si</string>
+    <string name="attachment_title">Activar Sonido</string>
+    <string name="No">No</string>
+    <string name="Si">Si</string>
+    <string name="home">Home</string>
+    <string name="destinos">Destinos</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Viajeros</string>
+    <string name="nav_header_subtitle">Versión 3.1</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_lista">Destinos</string>
+    <string name="menu_preferencias">Preferencias</string>
+    <string name="todo">TODO</string>
+</resources>
